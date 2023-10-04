@@ -1,8 +1,8 @@
 # OS-EX-1-Assembling-the-System---CASE-STUDY
 
-AIM:
-To assemble the system.
-STEPS:
+# AIM:
+## To assemble the system.
+# STEPS:
 ## 1.Prepare your workspace: Choose a clean, well-lit, and static-free area to work in. Place the motherboard on a non-conductive surface like its anti-static bag.
 
 ## 2.Install the CPU (Central Processing Unit): Align the CPU with the socket, ensuring the notches match.Gently place the CPU into the socket without applying any force.
@@ -24,5 +24,5 @@ STEPS:
 ## 10.Close the Case: Carefully close and secure the computer case using screws.
 ![os18](https://github.com/Iyyanar22009120/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/118680259/b462c53e-4309-461f-ab02-769ac7db06fa)
 
-RESULT:
-The computer system has been installed successfully.
+# RESULT:
+## The computer system has been installed successfully.
